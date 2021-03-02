@@ -1,7 +1,7 @@
 ### Hi there, I'm Luca Moschella 🧗
 
 - 🎓 PhD Student @ Gladia, Sapienza University of Rome
-- 📬 How to reach me: [LinkedIn](https://www.linkedin.com/feed/), [Twitter](https://twitter.com/moschella_luca)
+- 📬 How to reach me: [LinkedIn](https://www.linkedin.com/in/lucamoschella/), [Twitter](https://twitter.com/moschella_luca)
 
 ---
 
