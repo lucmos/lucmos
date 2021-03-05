@@ -1,7 +1,14 @@
 ### Hi there, I'm Luca Moschella 🧗
 
-- 🎓 PhD Student @ Gladia, Sapienza University of Rome
-- 📬 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/lucamoschella/) [![Twitter](https://img.shields.io/badge/Twitter-white?logo=twitter&style=for-the-badge)](https://twitter.com/moschella_luca)
+🎓 PhD Student @ Gladia, Sapienza University of Rome
+
+
+<p align="center">
+<a href="https://www.linkedin.com/in/lucamoschella/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" hspace="20"></a>     
+<a href="https://twitter.com/moschella_luca"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-white?logo=twitter&style=for-the-badge" hspace="20"></a>
+</p>
+
+
 
 ---
 
