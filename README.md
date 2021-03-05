@@ -1,10 +1,9 @@
 ### Hi there, I'm Luca Moschella 🧗
 
 - 🎓 PhD Student @ Gladia, Sapienza University of Rome
-- 📬 How to reach me: [LinkedIn](https://www.linkedin.com/in/lucamoschella/), [Twitter](https://twitter.com/moschella_luca)
+- 📬 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/lucamoschella/) [![Twitter](https://img.shields.io/badge/Twitter-white?logo=twitter&style=for-the-badge)](https://twitter.com/moschella_luca)
 
 ---
-
 
 [![lucmos's stats](https://github-readme-stats.vercel.app/api?username=lucmos&show_icons=true&count_private=true&include_all_commits=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
