@@ -15,12 +15,11 @@
 
 [![lucmos's stats](https://github-readme-stats.vercel.app/api?username=lucmos&show_icons=true&count_private=true&include_all_commits=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucmos&exclude_repo=DLAI-s2-2020-tutorials&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
-
 [![nn-template](https://github-readme-stats.vercel.app/api/pin/?username=lucmos&repo=nn-template&theme=react)](https://github.com/lucmos/nn-template)
 
 [![UltrawideWindows](https://github-readme-stats.vercel.app/api/pin/?username=lucmos&repo=UltraWideWindows&theme=react)](https://github.com/lucmos/UltrawideWindows)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucmos&exclude_repo=DLAI-s2-2020-tutorials&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **lucmos/lucmos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
