@@ -9,17 +9,15 @@
 <a href="https://twitter.com/moschella_luca"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-white?logo=twitter&style=for-the-badge" hspace="20"></a>
 </p>
 
-
-
 ---
 
-[![lucmos's stats](https://github-readme-stats.vercel.app/api?username=lucmos&show_icons=true&count_private=true&include_all_commits=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="lucmos's stats" src="https://github-readme-stats.vercel.app/api?username=lucmos&show_icons=true&count_private=true&include_all_commits=true&theme=react"></a><br>
+    <a href="https://github.com/lucmos/nn-template"><img alt="nn-template" src="https://github-readme-stats.vercel.app/api/pin/?username=lucmos&repo=nn-template&theme=react"></a><br>
+    <a href="https://github.com/lucmos/UltrawideWindows"><img alt="UltrawideWindows" src="https://github-readme-stats.vercel.app/api/pin/?username=lucmos&repo=UltraWideWindows&theme=react"></a><br>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucmos&exclude_repo=DLAI-s2-2020-tutorials&theme=react"></a><br>
+</p>
 
-[![nn-template](https://github-readme-stats.vercel.app/api/pin/?username=lucmos&repo=nn-template&theme=react)](https://github.com/lucmos/nn-template)
-
-[![UltrawideWindows](https://github-readme-stats.vercel.app/api/pin/?username=lucmos&repo=UltraWideWindows&theme=react)](https://github.com/lucmos/UltrawideWindows)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucmos&exclude_repo=DLAI-s2-2020-tutorials&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **lucmos/lucmos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
