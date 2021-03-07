@@ -1,6 +1,6 @@
 ### Hi there, I'm Luca Moschella 🧗
 
-🎓 PhD Student @ Gladia, Sapienza University of Rome
+🎓 PhD Student @ GLADIA research group, Sapienza University of Rome
 
 
 <p align="center">
