@@ -14,6 +14,7 @@
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="lucmos's stats" src="https://github-readme-stats.vercel.app/api?username=lucmos&show_icons=true&count_private=true&include_all_commits=true&theme=react"></a><br>
     <a href="https://github.com/lucmos/nn-template"><img alt="nn-template" src="https://github-readme-stats.vercel.app/api/pin/?username=lucmos&repo=nn-template&theme=react"></a><br>
+        <a href="https://github.com/erodola/DLAI-s2-2021"><img alt="DLAI-s2-2021" src="https://github-readme-stats.vercel.app/api/pin/?username=erodola&repo=DLAI-s2-2021&theme=react"></a><br>
     <a href="https://github.com/lucmos/UltrawideWindows"><img alt="UltrawideWindows" src="https://github-readme-stats.vercel.app/api/pin/?username=lucmos&repo=UltraWideWindows&theme=react"></a><br>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucmos&exclude_repo=DLAI-s2-2020-tutorials&theme=react"></a><br>
 </p>
