@@ -4,7 +4,6 @@
 
 
 <p align="center">
-<a href="mailto:luca.moschella94@gmail.com"><img alt="Mail" src="https://img.shields.io/badge/Mail-white?logo=gmail&style=for-the-badge" hspace="20"></a>   
 <a href="https://www.linkedin.com/in/lucamoschella/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" hspace="20"></a>     
 <a href="https://twitter.com/moschella_luca"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-white?logo=twitter&style=for-the-badge" hspace="20"></a>
 </p>
@@ -12,15 +11,15 @@
 ---
 
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="lucmos's stats" src="https://github-readme-stats.vercel.app/api?username=lucmos&show_icons=true&count_private=true&include_all_commits=true&theme=react"></a><br>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="lucmos's stats" src="https://github-readme-stats.vercel.app/api?username=lucmos&show_icons=true&count_private=true&include_all_commits=true"></a><br>
+</p>
+
+<!--
     <a href="https://github.com/lucmos/nn-template"><img alt="nn-template" src="https://github-readme-stats.vercel.app/api/pin/?username=lucmos&repo=nn-template&theme=react"></a><br>
         <a href="https://github.com/erodola/DLAI-s2-2021"><img alt="DLAI-s2-2021" src="https://github-readme-stats.vercel.app/api/pin/?username=erodola&repo=DLAI-s2-2021&theme=react"></a><br>
     <a href="https://github.com/lucmos/UltrawideWindows"><img alt="UltrawideWindows" src="https://github-readme-stats.vercel.app/api/pin/?username=lucmos&repo=UltraWideWindows&theme=react"></a><br>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucmos&exclude_repo=DLAI-s2-2020-tutorials&theme=react"></a><br>
-</p>
 
-
-<!--
 **lucmos/lucmos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
