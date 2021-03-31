@@ -4,6 +4,7 @@
 
 
 <p align="center">
+<a href="https://luca.moschella.dev/"><img alt="LinkedIn" src="https://img.shields.io/badge/website-white?logo=google-chrome&style=for-the-badge" hspace="20"></a>
 <a href="https://www.linkedin.com/in/lucamoschella/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" hspace="20"></a>     
 <a href="https://twitter.com/moschella_luca"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-white?logo=twitter&style=for-the-badge" hspace="20"></a>
 </p>
@@ -11,7 +12,7 @@
 ---
 
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="lucmos's stats" src="https://github-readme-stats.vercel.app/api?username=lucmos&show_icons=true&count_private=true&include_all_commits=true"></a><br>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="lucmos's stats" src="https://github-readme-stats.vercel.app/api?username=lucmos&show_icons=true&count_private=true&include_all_commits=true"></a><br>
 </p>
 
 <!--
