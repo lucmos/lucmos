@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="lucmos's stats" src="https://github-readme-stats.vercel.app/api?username=lucmos&show_icons=true&count_private=true&include_all_commits=true"></a><br>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="lucmos's stats" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=lucmos&include_orgs=true&show_icons=true&count_private=true&include_all_commits=true"></a><br>
 </p>
 
 <!--
