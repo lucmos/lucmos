@@ -1,7 +1,8 @@
-### Hi there, I'm Luca Moschella 🧗
+<p align="center">
+<a href="https://luca.moschella.dev/"><img alt="lucmos's stats" src="assets/badge.svg"></a><br>
+</p>
 
-🎓 PhD Student @ GLADIA research group, Sapienza University of Rome
-
+---
 
 <p align="center">
 <a href="https://luca.moschella.dev/"><img alt="LinkedIn" src="https://img.shields.io/badge/Website-white?logo=google-chrome&style=social" hspace="10"></a>
@@ -9,11 +10,6 @@
 <a href="https://twitter.com/moschella_luca"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-white?logo=twitter&style=social" hspace="10"></a>
 </p>
 
----
-
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="lucmos's stats" src="https://github-readme-stats.vercel.app/api?username=lucmos&include_orgs=true&show_icons=true&count_private=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER"></a><br>
-</p>
 
 <!--
     <a href="https://github.com/lucmos/nn-template"><img alt="nn-template" src="https://github-readme-stats.vercel.app/api/pin/?username=lucmos&repo=nn-template&theme=react"></a><br>
