@@ -102,7 +102,7 @@ font-size:12px
 
     <text transform="matrix(1 0 0 1 15 60)" id="username" class="fadeIn2">lucmos</text>
 
-    <text transform="matrix(1 0 0 1 15 105)" id="about" class="fadeIn3"><tspan x="0" dy="0">Python 🐍, Climbing 🧗 and pizza 🍕</tspan></text>
+    <text transform="matrix(1 0 0 1 15 105)" id="about" class="fadeIn3"><tspan x="0" dy="0">Python 🐍, climbing 🧗 and pizza 🍕</tspan></text>
     <g class="fadeIn4 stats">
         <path transform="translate(0, 25)" d="M24.5,135c0.3,0,0.5,0.2,0.7,0.4l1.9,3.8l4.2,0.6c0.4,0.1,0.7,0.4,0.6,0.9c0,0.2-0.1,0.3-0.2,0.4l-3,3l0.7,4.2
         c0.1,0.4-0.2,0.8-0.6,0.9c-0.2,0-0.3,0-0.5-0.1l-3.8-2l-3.8,2c-0.4,0.2-0.8,0.1-1-0.3c-0.1-0.1-0.1-0.3-0.1-0.5l0.7-4.2l-3-3
@@ -121,7 +121,7 @@ font-size:12px
             s-2-4.5-4.5-4.5l0,0c-2.5,0-4.5,2-4.5,4.5S22,169.3,24.5,169.3z" />
         </g>
 
-        <text transform="matrix(1 0 0 1 44.0453 170) translate(0, 25)">887 commits in last year</text>
+        <text transform="matrix(1 0 0 1 44.0453 170) translate(0, 25)">888 commits in last year</text>
     </g>
     <g class="fadeIn6 stats">
         <path transform="translate(0, 25)" d="M18.5,185.4c0-1.9,1.6-3.5,3.5-3.5c1.9,0,3.5,1.6,3.5,3.5c0,1-0.4,1.9-1.1,2.5c1.6,0.8,2.7,2.3,3,4.1
