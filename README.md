@@ -4,6 +4,8 @@
 
 ---
 
+<!--
+
 <p align="center">
 <a href="https://luca.moschella.dev/"><img alt="LinkedIn" src="https://img.shields.io/badge/Website-white?logo=google-chrome&style=social" hspace="10"></a>
 <a href="https://www.linkedin.com/in/lucamoschella/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=social" hspace="10"></a>     
@@ -11,7 +13,6 @@
 </p>
 
 
-<!--
     <a href="https://github.com/lucmos/nn-template"><img alt="nn-template" src="https://github-readme-stats.vercel.app/api/pin/?username=lucmos&repo=nn-template&theme=react"></a><br>
         <a href="https://github.com/erodola/DLAI-s2-2021"><img alt="DLAI-s2-2021" src="https://github-readme-stats.vercel.app/api/pin/?username=erodola&repo=DLAI-s2-2021&theme=react"></a><br>
     <a href="https://github.com/lucmos/UltrawideWindows"><img alt="UltrawideWindows" src="https://github-readme-stats.vercel.app/api/pin/?username=lucmos&repo=UltraWideWindows&theme=react"></a><br>
